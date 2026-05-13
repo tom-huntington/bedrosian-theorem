@@ -121,6 +121,13 @@ function renderDocument({ title, body }) {
       padding-left: 1rem;
     }
 
+    img {
+      display: block;
+      max-width: 100%;
+      height: auto;
+      margin: 1.5rem auto;
+    }
+
     pre,
     code {
       font-family: ui-monospace, SFMono-Regular, Consolas, "Liberation Mono", monospace;

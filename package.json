@@ -1,7 +1,7 @@
 {
   "type": "module",
   "scripts": {
-    "build": "node render.js paper.md site/index.html"
+    "build": "node render.js site/paper.md site/index.html"
   },
   "dependencies": {
     "@vscode/markdown-it-katex": "^1.1.2",

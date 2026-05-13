@@ -88,7 +88,7 @@ function renderDocument({ title, body }) {
     }
 
     main {
-      width: min(100% - 2rem, 72ch);
+      width: min(100% - 2rem, 60ch);
       margin: 0 auto;
       padding: 3rem 0 4rem;
     }
